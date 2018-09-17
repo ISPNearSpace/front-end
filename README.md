@@ -68,11 +68,6 @@ $ npm start
 
 ### Note: The website is hosted on localhost:4200
 
-
-## Download
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) latest installable version of Markdownify for Windows, macOS and Linux.
-
 ## Credits
 
 This software uses code from several open source packages.
@@ -81,33 +76,16 @@ This software uses code from several open source packages.
 - [Node.js](https://nodejs.org/)
 - [Angular](https://angular.io/)
 - [HabHub](http://habhub.org/)
+- [Monchi Estevez](https://github.com/monchiestevez) - Developer and Founder
 
-## Related
+## Contributing
 
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
+Please contact me before planning to contribute.
 
-## Support
+## Help
 
-<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-<p>Or</p> 
-
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-## You may also like...
-
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+If you need help with anything or you have a suggestion contact me, If it is a bug or an error post it in the Issues tab.
 
 ## License
 
-MIT
-
----
-
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
-
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ISPNearSpace/laika/LICENSE.md) file

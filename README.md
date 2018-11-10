@@ -68,6 +68,73 @@ $ npm start
 
 ### Note: The website is hosted on localhost:4200
 
+## Files/Folders Structure
+Here is a brief explanation of the template folder structure and some of its main files usage:
+
+```
+└── src                         # Contains all template source files.
+│   └── assets                  # Contains JS, CSS, images and icon fonts.
+│   │   └── scripts             # Contains all JavaScript files.
+│   │   │   └── charts          # Chart.js, Sparkline & Pie Chart plugins init.
+│   │   │   └── chat            # All chat app JS code.
+│   │   │   └── constants       # Template constant values like color values.
+│   │   │   └── datatable       # Date table plugin init.
+│   │   │   └── datepicker      # Bootstrap datepicker init.
+│   │   │   └── email           # All email app code.
+│   │   │   └── fullcalendar    # Fullcalendar plugin init.
+│   │   │   └── googleMaps      # Google maps API integration code.
+│   │   │   └── masonry         # Masonry layout code.
+│   │   │   └── popover         # Bootstrap popover plugin init.
+│   │   │   └── scrollbar       # Perfect scrollbar plugin init.
+│   │   │   └── search          # Topbar toggle search init.
+│   │   │   └── sidebar         # Sidebar JS code.
+│   │   │   └── skycons         # Animated icons plugin init.
+│   │   │   └── utils           # Basic utils used for proper rendering.
+│   │   │   └── vectorMaps      # Vector maps plugin init.
+│   │   │   └── index.js        # Indicator file.
+│   │   │
+│   │   └── static              # Contains the non-code files.
+│   │   │   └── fonts           # Contains icon fonts.
+│   │   │   └── images          # Contains all template images/svg.
+│   │   │
+│   │   └── styles              # Contains all SCSS files.
+│   │       └── spec            # Contains custom SCSS files.
+│   │       │   └── components  # Contains all template components.
+│   │       │   └── generic     # Contains basic scaffolding styles.
+│   │       │   └── screens     # Contains views specific styles.
+│   │       │   └── settings    # Contains all template variables.
+│   │       │   └── tools       # Contains all mixins.
+│   │       │   └── utils       # Contains helper classes.
+│   │       │   └── index.scss  # Indicator file.
+│   │       │
+│   │       └── vendor          # Contains all plugin files & custom styles.
+│   │       └── index.scss      # Indicator file.
+│   │
+│   └── *.html                  # All HTML pages files .
+└── webpack                     # Contains Webpack init code.
+│   └── plugins                 # Contains all Webpack plugins config.
+│   └── rules                   # Contains Loaders config code.
+│   └── config.js               # Contains Webpack config object.
+│   └── devServer.js            # Webpack dev server config code.
+│   └── manifest.js             # All build system constants.
+│
+└── .editorconfig               # Keep same coding styles between code editors.
+└── .gitattributes              # Git Attributes.
+└── .gitignore                  # Ignored files in Git.
+└── .stylelintrc.json           # SCSS/CSS Linting.
+└── .travis.yml                 # Travis file
+└── angular.json                # Angular main files
+└── karma.conf.js               # Configuration file for Karma and Angular
+└── browserslist                # Supported Browsers.
+└── package.json                # Package metadata.
+└── package-lock.json           # Exact tree that was generated for modules
+└── protractor.conf.json        # Config files for Protractor
+└── tsconfig.json               # TypeScript config
+└── README.md                   # Manual file.
+└── tslint.json                 # Extensible static analysis tool for TypeScript code
+└── LICENSE                     # License for project
+```
+
 ## Credits
 
 This software uses code from several open source packages.

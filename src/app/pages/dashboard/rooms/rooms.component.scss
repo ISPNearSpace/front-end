@@ -19,9 +19,6 @@
     }
   }
 
-  ngx-player {
-    width: 30%;
-  }
 
   nb-card {
     display: flex;
@@ -50,7 +47,7 @@
       display: none;
     }
 
-    ngx-room-selector, ngx-player {
+    ngx-room-selector {
       width: 100%;
       border: none;
     }

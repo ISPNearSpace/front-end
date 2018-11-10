@@ -18,23 +18,23 @@ export class DashboardComponent implements OnDestroy {
   private alive = true;
 
   lightCard: CardSettings = {
-    title: 'Light',
+    title: 'Camera',
     iconClass: 'nb-lightbulb',
     type: 'primary',
   };
   rollerShadesCard: CardSettings = {
-    title: 'Roller Shades',
-    iconClass: 'nb-roller-shades',
+    title: 'External Temperature Sensors',
+    iconClass: 'nb-partlysunny',
     type: 'success',
   };
   wirelessAudioCard: CardSettings = {
-    title: 'Wireless Audio',
-    iconClass: 'nb-audio',
+    title: 'Altitude Sensors',
+    iconClass: 'nb-bar-chart',
     type: 'info',
   };
   coffeeMakerCard: CardSettings = {
-    title: 'Coffee Maker',
-    iconClass: 'nb-coffee-maker',
+    title: 'GPS',
+    iconClass: 'nb-location',
     type: 'warning',
   };
 
